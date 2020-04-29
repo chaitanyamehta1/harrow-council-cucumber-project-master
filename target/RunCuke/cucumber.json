@@ -1,0 +1,619 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 17781394600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Verify user should navigate to Council Tax page",
+        "description": "",
+        "id": "council-tax-and-coronavirus-page-functionality;verify-user-should-navigate-to-council-tax-page",
+        "after": [
+          {
+            "result": {
+              "duration": 136700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1048398500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on Home page",
+            "match": {
+              "location": "LoginTest.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11668150200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on Council Tax tab",
+            "match": {
+              "location": "CouncilTaxAndCoronavirusFeature.iClickOnCouncilTaxTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 93590400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should be in Council Tax successfully",
+            "match": {
+              "location": "CouncilTaxAndCoronavirusFeature.iShouldBeInCouncilTaxSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13192179800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Verify user should navigate to Coronavirus Page",
+        "description": "",
+        "id": "council-tax-and-coronavirus-page-functionality;verify-user-should-navigate-to-coronavirus-page",
+        "after": [
+          {
+            "result": {
+              "duration": 40600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 48400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I am on Home page",
+            "match": {
+              "location": "LoginTest.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1263433000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on Coronavirus tab",
+            "match": {
+              "location": "CouncilTaxAndCoronavirusFeature.iClickOnCoronavirusTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 109857800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I should be in Coronavirus page successfully",
+            "match": {
+              "location": "CouncilTaxAndCoronavirusFeature.iShouldBeInCoronavirusPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Council Tax and Coronavirus page Functionality",
+    "description": "As a user\r\nI want to visit Harrow Council website",
+    "id": "council-tax-and-coronavirus-page-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/uk/gov/harrow/resources/featurefile/counciltaxandcoronavirus.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13059329300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Verify user should navigate to Login Page",
+        "description": "",
+        "id": "login-functionality;verify-user-should-navigate-to-login-page",
+        "after": [
+          {
+            "result": {
+              "duration": 37600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 32200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on Home page",
+            "match": {
+              "location": "LoginTest.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 13966661600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on Log In tab",
+            "match": {
+              "location": "LoginTest.iClickOnLogInTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 81436600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should be on Login Page successfully",
+            "match": {
+              "location": "LoginTest.iShouldBeOnLoginPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12569125100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "Verify User should not Login with invalid credentials",
+        "description": "",
+        "id": "login-functionality;verify-user-should-not-login-with-invalid-credentials;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 47800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 41500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I am on Home page",
+            "match": {
+              "location": "LoginTest.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12658789100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on Log In tab",
+            "match": {
+              "location": "LoginTest.iClickOnLogInTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 429089100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter Your email in email field \"dhanno@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "dhanno@gmail.com",
+                  "offset": 35
+                }
+              ],
+              "location": "LoginTest.iEnterYourEmailInEmailField(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 294232700,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I enter password in password field \"dhanno23456@\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "dhanno23456@",
+                  "offset": 36
+                }
+              ],
+              "location": "LoginTest.iEnterPasswordInPasswordField(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 866601600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on Log In button",
+            "match": {
+              "location": "LoginTest.iClickOnLogInButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 105675500,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "System should throw error message \"Invalid Username/Password supplied\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Invalid Username/Password supplied",
+                  "offset": 35
+                }
+              ],
+              "location": "LoginTest.systemShouldThrowErrorMessage(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12754300800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "Verify User should not Login with invalid credentials",
+        "description": "",
+        "id": "login-functionality;verify-user-should-not-login-with-invalid-credentials;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 41800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 39800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I am on Home page",
+            "match": {
+              "location": "LoginTest.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 13391933000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on Log In tab",
+            "match": {
+              "location": "LoginTest.iClickOnLogInTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 261170200,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter Your email in email field \"dhann@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "dhann@gmail.com",
+                  "offset": 35
+                }
+              ],
+              "location": "LoginTest.iEnterYourEmailInEmailField(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 231253700,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I enter password in password field \"dhann23456@\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "dhann23456@",
+                  "offset": 36
+                }
+              ],
+              "location": "LoginTest.iEnterPasswordInPasswordField(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 972721500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on Log In button",
+            "match": {
+              "location": "LoginTest.iClickOnLogInButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 77720800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "System should throw error message \"Invalid Username/Password supplied\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Invalid Username/Password supplied",
+                  "offset": 35
+                }
+              ],
+              "location": "LoginTest.systemShouldThrowErrorMessage(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13444837100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 22,
+        "name": "Verify User should not Login with invalid credentials",
+        "description": "",
+        "id": "login-functionality;verify-user-should-not-login-with-invalid-credentials;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 45900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 48000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I am on Home page",
+            "match": {
+              "location": "LoginTest.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12021515400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on Log In tab",
+            "match": {
+              "location": "LoginTest.iClickOnLogInTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 229602400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter Your email in email field \"dha@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "dha@gmail.com",
+                  "offset": 35
+                }
+              ],
+              "location": "LoginTest.iEnterYourEmailInEmailField(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 271026200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I enter password in password field \"dhanno3456@\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "dhanno3456@",
+                  "offset": 36
+                }
+              ],
+              "location": "LoginTest.iEnterPasswordInPasswordField(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 853690300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on Log In button",
+            "match": {
+              "location": "LoginTest.iClickOnLogInButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 79105700,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "System should throw error message \"Invalid Username/Password supplied\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Invalid Username/Password supplied",
+                  "offset": 35
+                }
+              ],
+              "location": "LoginTest.systemShouldThrowErrorMessage(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login Functionality",
+    "description": "As a user\r\nI want to visit Harrow council website",
+    "id": "login-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/uk/gov/harrow/resources/featurefile/login.feature"
+  }
+]

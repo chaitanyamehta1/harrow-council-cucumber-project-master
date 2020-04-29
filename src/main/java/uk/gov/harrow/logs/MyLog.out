@@ -1,0 +1,123 @@
+2020-04-27 12:04:887 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 12:04:501 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 12:04:200 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 12:04:351 INFO  HomePage :30 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 12:04:245 INFO  LoginPage :46 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (48a005e903f2cead3512a418bc962230)] -> xpath: //input[@id='username-input']]
+2020-04-27 12:04:430 INFO  LoginPage :52 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (48a005e903f2cead3512a418bc962230)] -> xpath: //input[@id='password-input']]
+2020-04-27 12:04:349 INFO  LoginPage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (48a005e903f2cead3512a418bc962230)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 12:04:386 INFO  LoginPage :64 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (48a005e903f2cead3512a418bc962230)] -> xpath: //span[@id='password.errors']]
+2020-04-27 12:04:538 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 12:04:245 INFO  HomePage :30 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 12:04:501 INFO  LoginPage :46 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (5b44b446c25a476be973d30f91948195)] -> xpath: //input[@id='username-input']]
+2020-04-27 12:04:707 INFO  LoginPage :52 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (5b44b446c25a476be973d30f91948195)] -> xpath: //input[@id='password-input']]
+2020-04-27 12:04:576 INFO  LoginPage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (5b44b446c25a476be973d30f91948195)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 12:04:612 INFO  LoginPage :64 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (5b44b446c25a476be973d30f91948195)] -> xpath: //span[@id='password.errors']]
+2020-04-27 12:04:642 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 12:04:19 INFO  HomePage :30 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 12:04:232 INFO  LoginPage :46 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (2971c7c93024a60124705aa0a051a0d9)] -> xpath: //input[@id='username-input']]
+2020-04-27 12:04:377 INFO  LoginPage :52 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (2971c7c93024a60124705aa0a051a0d9)] -> xpath: //input[@id='password-input']]
+2020-04-27 12:04:941 INFO  LoginPage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (2971c7c93024a60124705aa0a051a0d9)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 12:04:989 INFO  LoginPage :64 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (2971c7c93024a60124705aa0a051a0d9)] -> xpath: //span[@id='password.errors']]
+2020-04-27 12:04:168 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 12:04:381 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 12:04:214 INFO  HomePage :30 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 12:04:440 INFO  LoginPage :46 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (bdf48957c31bb0073fe13d80fd7fc764)] -> xpath: //input[@id='username-input']]
+2020-04-27 12:04:641 INFO  LoginPage :52 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (bdf48957c31bb0073fe13d80fd7fc764)] -> xpath: //input[@id='password-input']]
+2020-04-27 12:04:122 INFO  LoginPage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (bdf48957c31bb0073fe13d80fd7fc764)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 12:04:267 INFO  LoginPage :64 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (bdf48957c31bb0073fe13d80fd7fc764)] -> xpath: //span[@id='password.errors']]
+2020-04-27 12:04:505 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 12:04:454 INFO  HomePage :30 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 12:04:696 INFO  LoginPage :46 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (025f4d1aed2cfe887ec75be6812cc4eb)] -> xpath: //input[@id='username-input']]
+2020-04-27 12:04:873 INFO  LoginPage :52 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (025f4d1aed2cfe887ec75be6812cc4eb)] -> xpath: //input[@id='password-input']]
+2020-04-27 12:04:205 INFO  LoginPage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (025f4d1aed2cfe887ec75be6812cc4eb)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 12:04:238 INFO  LoginPage :64 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (025f4d1aed2cfe887ec75be6812cc4eb)] -> xpath: //span[@id='password.errors']]
+2020-04-27 12:04:796 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 13:04:840 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 13:04:707 INFO  HomePage :30 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 13:04:990 INFO  LoginPage :64 - Getting Login Text [[ChromeDriver: chrome on WINDOWS (ead0f43dbb498d7055e8ad8e7a7cb925)] -> xpath: //h2[contains(text(),'Log in')]]
+2020-04-27 13:04:345 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 13:04:594 INFO  HomePage :30 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 13:04:319 INFO  LoginPage :48 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (8a5c3ae413b82c68cb3e73909b3c3d75)] -> xpath: //input[@id='username-input']]
+2020-04-27 13:04:559 INFO  LoginPage :54 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (8a5c3ae413b82c68cb3e73909b3c3d75)] -> xpath: //input[@id='password-input']]
+2020-04-27 13:04:796 INFO  LoginPage :60 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (8a5c3ae413b82c68cb3e73909b3c3d75)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 13:04:837 INFO  LoginPage :70 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (8a5c3ae413b82c68cb3e73909b3c3d75)] -> xpath: //span[@id='password.errors']]
+2020-04-27 13:04:308 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 13:04:929 INFO  HomePage :30 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 13:04:154 INFO  LoginPage :48 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (8989f48a1366e0ef55b4632a44f8661e)] -> xpath: //input[@id='username-input']]
+2020-04-27 13:04:332 INFO  LoginPage :54 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (8989f48a1366e0ef55b4632a44f8661e)] -> xpath: //input[@id='password-input']]
+2020-04-27 13:04:768 INFO  LoginPage :60 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (8989f48a1366e0ef55b4632a44f8661e)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 13:04:802 INFO  LoginPage :70 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (8989f48a1366e0ef55b4632a44f8661e)] -> xpath: //span[@id='password.errors']]
+2020-04-27 13:04:336 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 13:04:486 INFO  HomePage :30 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 13:04:705 INFO  LoginPage :48 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (2e902156582f74a836b4bd31ce55bcd8)] -> xpath: //input[@id='username-input']]
+2020-04-27 13:04:949 INFO  LoginPage :54 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (2e902156582f74a836b4bd31ce55bcd8)] -> xpath: //input[@id='password-input']]
+2020-04-27 13:04:871 INFO  LoginPage :60 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (2e902156582f74a836b4bd31ce55bcd8)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 13:04:902 INFO  LoginPage :70 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (2e902156582f74a836b4bd31ce55bcd8)] -> xpath: //span[@id='password.errors']]
+2020-04-27 14:04:43 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:799 INFO  HomePage :56 - Clicking on council tax button Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='widget-row widget-row--flush widget-row--full-width']//a[2]'
+2020-04-27 14:04:902 INFO  CouncilTaxPage :23 - Getting council tax message [[ChromeDriver: chrome on WINDOWS (ec1a0c4196b8e39a08f36e73ea56a3a9)] -> class name: page-heading]
+2020-04-27 14:04:372 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:167 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:686 INFO  HomePage :38 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 14:04:883 INFO  LoginPage :66 - Getting Login Text [[ChromeDriver: chrome on WINDOWS (f5209d3742f70c8b81bd7ae27622f719)] -> xpath: //h2[contains(text(),'Log in')]]
+2020-04-27 14:04:404 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:936 INFO  HomePage :38 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 14:04:01 INFO  LoginPage :48 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (375243c677d9c8402fb0a82ca1c4a81c)] -> xpath: //input[@id='username-input']]
+2020-04-27 14:04:267 INFO  LoginPage :54 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (375243c677d9c8402fb0a82ca1c4a81c)] -> xpath: //input[@id='password-input']]
+2020-04-27 14:04:198 INFO  LoginPage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (375243c677d9c8402fb0a82ca1c4a81c)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 14:04:238 INFO  LoginPage :72 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (375243c677d9c8402fb0a82ca1c4a81c)] -> xpath: //span[@id='password.errors']]
+2020-04-27 14:04:138 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:526 INFO  HomePage :38 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 14:04:05 INFO  LoginPage :48 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (617cc053605e4cbee81b1ed6306e0652)] -> xpath: //input[@id='username-input']]
+2020-04-27 14:04:262 INFO  LoginPage :54 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (617cc053605e4cbee81b1ed6306e0652)] -> xpath: //input[@id='password-input']]
+2020-04-27 14:04:254 INFO  LoginPage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (617cc053605e4cbee81b1ed6306e0652)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 14:04:287 INFO  LoginPage :72 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (617cc053605e4cbee81b1ed6306e0652)] -> xpath: //span[@id='password.errors']]
+2020-04-27 14:04:884 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:121 INFO  HomePage :38 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 14:04:385 INFO  LoginPage :48 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (19ccdaea0bcc155e515e795c6cc5728a)] -> xpath: //input[@id='username-input']]
+2020-04-27 14:04:574 INFO  LoginPage :54 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (19ccdaea0bcc155e515e795c6cc5728a)] -> xpath: //input[@id='password-input']]
+2020-04-27 14:04:492 INFO  LoginPage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (19ccdaea0bcc155e515e795c6cc5728a)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 14:04:532 INFO  LoginPage :72 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (19ccdaea0bcc155e515e795c6cc5728a)] -> xpath: //span[@id='password.errors']]
+2020-04-27 14:04:957 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:866 INFO  HomePage :56 - Clicking on council tax button Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='widget-row widget-row--flush widget-row--full-width']//a[2]'
+2020-04-27 14:04:31 INFO  CouncilTaxPage :23 - Getting council tax message [[ChromeDriver: chrome on WINDOWS (58bfa1412d1ffcc2eff68b8d8562d1f4)] -> class name: page-heading]
+2020-04-27 14:04:90 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:86 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:89 INFO  HomePage :56 - Clicking on council tax button Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='widget-row widget-row--flush widget-row--full-width']//a[2]'
+2020-04-27 14:04:187 INFO  CouncilTaxPage :23 - Getting council tax message [[ChromeDriver: chrome on WINDOWS (b2f054068fcc430c0d42ba2ae9b12448)] -> xpath: //h1[@class='page-heading']]
+2020-04-27 14:04:768 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:507 INFO  HomePage :31 - Clicking on Coronavirus Tab [[ChromeDriver: chrome on WINDOWS (36fe00417eeb4028504a68ffa9df4f4c)] -> xpath: //span[contains(text(),'Coronavirus (COVID-19)')]]
+2020-04-27 14:04:687 INFO  CouncilTaxPage :22 - Getting Coronavirus Text Message [[ChromeDriver: chrome on WINDOWS (36fe00417eeb4028504a68ffa9df4f4c)] -> xpath: //h1[@class='page-heading']]
+2020-04-27 14:04:31 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:797 INFO  HomePage :56 - Clicking on council tax button Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='widget-row widget-row--flush widget-row--full-width']//a[2]'
+2020-04-27 14:04:890 INFO  CouncilTaxPage :23 - Getting council tax message [[ChromeDriver: chrome on WINDOWS (ccf5ff0c16a4eecc50d8c081f2d30052)] -> xpath: //h1[@class='page-heading']]
+2020-04-27 14:04:964 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:220 INFO  HomePage :31 - Clicking on Coronavirus Tab [[ChromeDriver: chrome on WINDOWS (deed892120225eb873046e86a86a6395)] -> xpath: //span[contains(text(),'Coronavirus (COVID-19)')]]
+2020-04-27 14:04:461 INFO  CouncilTaxPage :22 - Getting Coronavirus Text Message [[ChromeDriver: chrome on WINDOWS (deed892120225eb873046e86a86a6395)] -> xpath: //h1[@class='page-heading']]
+2020-04-27 14:04:492 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:700 INFO  HomePage :56 - Clicking on council tax button Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='widget-row widget-row--flush widget-row--full-width']//a[2]'
+2020-04-27 14:04:749 INFO  CouncilTaxPage :23 - Getting council tax message [[ChromeDriver: chrome on WINDOWS (6fe4e0e5154d831d524977457062b85b)] -> xpath: //h1[@class='page-heading']]
+2020-04-27 14:04:634 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:282 INFO  HomePage :31 - Clicking on Coronavirus Tab [[ChromeDriver: chrome on WINDOWS (f681af3fd0e02ca6c7b2edefe75f6514)] -> xpath: //span[contains(text(),'Coronavirus (COVID-19)')]]
+2020-04-27 14:04:349 INFO  CouncilTaxPage :22 - Getting Coronavirus Text Message [[ChromeDriver: chrome on WINDOWS (f681af3fd0e02ca6c7b2edefe75f6514)] -> xpath: //h1[@class='page-heading']]
+2020-04-27 14:04:754 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:436 INFO  HomePage :38 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 14:04:489 INFO  LoginPage :66 - Getting Login Text [[ChromeDriver: chrome on WINDOWS (b2637c1850a8ee7ac9fe69e5869b2a42)] -> xpath: //h2[contains(text(),'Log in')]]
+2020-04-27 14:04:497 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:884 INFO  HomePage :38 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 14:04:315 INFO  LoginPage :48 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (b17d3ce807f17b5fb49f928ca4b4e8ca)] -> xpath: //input[@id='username-input']]
+2020-04-27 14:04:612 INFO  LoginPage :54 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (b17d3ce807f17b5fb49f928ca4b4e8ca)] -> xpath: //input[@id='password-input']]
+2020-04-27 14:04:487 INFO  LoginPage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (b17d3ce807f17b5fb49f928ca4b4e8ca)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 14:04:524 INFO  LoginPage :72 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (b17d3ce807f17b5fb49f928ca4b4e8ca)] -> xpath: //span[@id='password.errors']]
+2020-04-27 14:04:303 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:754 INFO  HomePage :38 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 14:04:19 INFO  LoginPage :48 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (53569ab232d8dcec37a7b4cd87bfcfd8)] -> xpath: //input[@id='username-input']]
+2020-04-27 14:04:260 INFO  LoginPage :54 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (53569ab232d8dcec37a7b4cd87bfcfd8)] -> xpath: //input[@id='password-input']]
+2020-04-27 14:04:235 INFO  LoginPage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (53569ab232d8dcec37a7b4cd87bfcfd8)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 14:04:270 INFO  LoginPage :72 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (53569ab232d8dcec37a7b4cd87bfcfd8)] -> xpath: //span[@id='password.errors']]
+2020-04-27 14:04:647 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-27 14:04:793 INFO  HomePage :38 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-27 14:04:28 INFO  LoginPage :48 - Entering Email id On Email Field [[ChromeDriver: chrome on WINDOWS (96f9e13c734d9f6eab2f82030ba5ad78)] -> xpath: //input[@id='username-input']]
+2020-04-27 14:04:303 INFO  LoginPage :54 - Entering Password On Password Field [[ChromeDriver: chrome on WINDOWS (96f9e13c734d9f6eab2f82030ba5ad78)] -> xpath: //input[@id='password-input']]
+2020-04-27 14:04:163 INFO  LoginPage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (96f9e13c734d9f6eab2f82030ba5ad78)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-27 14:04:206 INFO  LoginPage :72 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (96f9e13c734d9f6eab2f82030ba5ad78)] -> xpath: //span[@id='password.errors']]
